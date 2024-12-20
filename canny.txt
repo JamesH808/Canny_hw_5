@@ -1,0 +1,2 @@
+all of my modules seem to be working. I started off by just testing platform without datain and dataout by connecting the ports from ch1 and ch2 to DUT directly.
+I had some naming issues with the path of my output images but other than that I was successful and the make test passed. 
